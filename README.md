@@ -5,7 +5,9 @@
 
 ## Preview
 
-![img](preview-TankWarsGame.mp4)
+
+
+![GIF](./preview-TankWarsGame.gif)
 
 
 ## Tank Color Selection (UI)
