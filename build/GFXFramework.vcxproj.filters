@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Projectile.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Tank.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\TankColorSelectionUI.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\TankWarsGame.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Terrain.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\TrajectoryBeam.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Transition.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\object_2D.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\vis2D.cpp">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab1\lab1.cpp">
+      <Filter>src\lab_m1\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab2\lab2.cpp">
+      <Filter>src\lab_m1\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab3\lab3.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab3\lab3_vis2D.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab3\object2D.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab4\lab4.cpp">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab5\lab5.cpp">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab6\lab6.cpp">
+      <Filter>src\lab_m1\lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab7\lab7.cpp">
+      <Filter>src\lab_m1\lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab8\lab8.cpp">
+      <Filter>src\lab_m1\lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab9\lab9.cpp">
+      <Filter>src\lab_m1\lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trifa\Downloads\gfx-framework\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Appearance.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Point2D.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Projectile.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Tank.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\TankColorSelectionUI.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\TankWarsGame.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Terrain.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\TrajectoryBeam.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\Transition.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\TrapezoidVertices.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\object_2D.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\transform2D.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\TankWarsGame\vis2D.h">
+      <Filter>src\lab_m1\TankWarsGame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab1\lab1.h">
+      <Filter>src\lab_m1\lab1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab2\lab2.h">
+      <Filter>src\lab_m1\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab3\lab3.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab3\lab3_vis2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab3\object2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab3\transform2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab4\lab4.h">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab4\transform3D.h">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab5\lab5.h">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab5\lab_camera.h">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab6\lab6.h">
+      <Filter>src\lab_m1\lab6</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab6\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab6\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab6\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab6\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab7\lab7.h">
+      <Filter>src\lab_m1\lab7</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab7\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab7\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab7\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab7\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab8\lab8.h">
+      <Filter>src\lab_m1\lab8</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab8\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab8\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab8\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab8\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab9\lab9.h">
+      <Filter>src\lab_m1\lab9</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab9\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab9\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab9\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab9\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trifa\Downloads\gfx-framework\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\trifa\Downloads\gfx-framework\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{885B95A8-CACC-33E2-93A9-20E31A2EB737}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{254742EC-DA98-3810-9916-F13F7820A838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{B8947829-2E2F-3FEA-ADC4-A9C393A05A2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{F235377D-E8D1-3A8B-8ABE-CB0D19BBD317}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{A85675D1-E665-310E-A78D-7C40CA683749}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{13F2A95E-E3DC-33A2-815A-A16043651C16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{318D8052-57A2-3154-9A32-02DC093A2E2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\TankWarsGame">
+      <UniqueIdentifier>{2FDDE2B0-9F9E-3292-B052-B8D710D18AA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab1">
+      <UniqueIdentifier>{1B37E262-AD68-3FF9-9A30-4411C01C3E30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab2">
+      <UniqueIdentifier>{935AB74A-00D7-36A2-A978-482FF0FDA18B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab3">
+      <UniqueIdentifier>{28549915-23C7-3147-9BBD-DAD2788068A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab4">
+      <UniqueIdentifier>{2E8521CD-EDF3-3574-8ECE-00CC23C13E53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab5">
+      <UniqueIdentifier>{F11D7996-7722-33C4-A963-3C75607B8CFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab6">
+      <UniqueIdentifier>{87C9E42B-2EDD-3CC2-B1E1-9A5BDEFC46E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab6\shaders">
+      <UniqueIdentifier>{1A326E7B-58F0-3C21-89EA-9DD396345492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab7">
+      <UniqueIdentifier>{F58318DF-2519-3D13-9973-E8E55F2EE2CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab7\shaders">
+      <UniqueIdentifier>{BB7FEA2E-45C5-30E6-AC74-9BA7A6EEF14D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab8">
+      <UniqueIdentifier>{29157B67-CA28-3B84-8DC7-38662C843D79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab8\shaders">
+      <UniqueIdentifier>{1E0364C3-DDE1-38F1-A0AC-88AEF5718038}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab9">
+      <UniqueIdentifier>{DC162260-A48D-3289-93C5-0D1DD4BED7C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab9\shaders">
+      <UniqueIdentifier>{52F6B2FB-367F-303D-B007-C2C62A726E0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{32631802-4259-336D-9E1D-A4B60C01E2AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
